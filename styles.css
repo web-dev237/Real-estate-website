@@ -493,6 +493,7 @@ header {
     grid-template-columns: repeat(4, 1fr);
     border-top: 1px solid #eee;
     padding-top: 40px;
+    text-align: center;
 }
 
 .stat-box {
@@ -1425,7 +1426,7 @@ details[open] summary::after {
 }
 
 .cta-banner {
-    background: url('https://unsplash.com/photos/white-and-blue-glass-walled-high-rise-building-w3eFhqXjkZE');
+    background: url('/images/many-building');
     padding: 100px 5%;
     text-align: center;
     color: #fff;
